@@ -4,7 +4,7 @@ QQ盗号骗子炸弹，让骗子原地爆炸。
 
 Write for <http://nuiyyz.cn/Ru_op> within a few minutes. 
 
-For a better communication experience, I write this `README.md` in English. `README-zh_CN.md` is provided. <README-zh_CN.md>
+For a better communication experience, I write this `README.md` in English. `README-zh_CN.md` is provided. [zh_CN [简体中文]](./README.zh_CN.md)
 
 ## Why not multithreading? 
 
@@ -24,7 +24,7 @@ Only one night, I generated three thousands of garbage and upload to this server
 
 Because of love and peace. 
 
-![Love & peace](images/img1.jpg)
+![Love & peace](images/img2.jpg)
 
 Generating a lifelike random password can protect innocent people who provide their real password to hacker. 
 
