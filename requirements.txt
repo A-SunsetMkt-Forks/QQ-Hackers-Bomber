@@ -1,2 +1,2 @@
-requests==2.22.0
+requests==2.32.0
 Faker==2.0.0
